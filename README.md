@@ -3,7 +3,7 @@
 👋 I am Bhagyashri Mande, a `Full-Stack` Developer from India.  
 
 ## 🛠 Tech Stack
-  `Programming Languages`: Python, Javascript, Typescript, Nodejs   
+  `Programming Languages`: Python, JavaScript, TypeScript, NodeJS   
   `FrontEnd Development`: HTML, CSS, Javascript, Typescript, React, Nextjs, Angular   
   `Version-Control`: Git, GitHub, CI-CD   
   `Cloud Services`: Azure services   
