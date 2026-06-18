@@ -4,7 +4,7 @@
 
 ## 🛠 Tech Stack
   `Programming Languages`: Python, JavaScript, TypeScript, NodeJS   
-  `FrontEnd Development`: HTML, CSS, Javascript, Typescript, React, Nextjs, Angular   
+  `FrontEnd Development`: HTML, CSS, Javascript, Typescript, React, NextJS, Angular   
   `Version-Control`: Git, GitHub, CI-CD   
   `Cloud Services`: Azure services   
   `Test Automation`: Robot Framework   
