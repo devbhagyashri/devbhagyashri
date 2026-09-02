@@ -59,14 +59,6 @@ I'm a passionate Frontend Developer from India who enjoys building responsive, u
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devbhagyashri\&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devbhagyashri\&layout=compact)
-
----
-
 ## 🌟 What I'm Looking For
 
 I'm actively seeking opportunities where I can contribute as a Frontend Developer, collaborate with talented teams, and build impactful products while continuously growing my technical expertise.
