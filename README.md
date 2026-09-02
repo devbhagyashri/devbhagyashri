@@ -75,9 +75,9 @@ I'm actively seeking opportunities where I can contribute as a Frontend Develope
 
 ## 🤝 Connect With Me
 
-* LinkedIn: [Add your LinkedIn profile link](https://www.linkedin.com/in/bhagyashri-mande-31908915/)
+* LinkedIn: (https://www.linkedin.com/in/bhagyashri-mande-31908915/)
 * Email: bhagya.mande28@gmail.com
-* Portfolio: [Add your portfolio website](https://github.com/devbhagyashri)
+* Portfolio: (https://github.com/devbhagyashri)
 
 ---
 
